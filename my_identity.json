@@ -1,0 +1,9 @@
+{
+  "hostname": "VENKAT",
+  "ip": "192.168.31.248",
+  "mac": "00:50:56:c0:00:08",
+  "signing_private": "t40Efeg+zDWVz3W8Pn/diKYzk1MlOt38OoWNCdgrv0Q=",
+  "signing_public": "qyHGrubyWOUetHTkZ621xE0M0CX/vn3cs9uz8Apy1nI=",
+  "x25519_private": "YsbGm9CUMicnqh6IDHEhEC9cEFSstBOj9nOvstMbkho=",
+  "x25519_public": "jMpYk83of4o/sJGWNBhkwSabcTNS+RO3Lccc1vo84CU="
+}
